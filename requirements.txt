@@ -4,3 +4,5 @@ lightgbm
 pandas
 numpy
 joblib
+fastapi
+uvicorn
